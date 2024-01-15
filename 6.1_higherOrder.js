@@ -1,6 +1,6 @@
 
 //function which takes other function as its input is called as higher order functions
-
+//
 
 function add(num1, num2) {
     return num1 + num2;
