@@ -7,4 +7,9 @@
    2) Function Execution Context
    3) Eval Execution Context
 
+   JavaScript code runs in two phases
+   1) Memeory Creation Phase
+   2) Execution Phase
+   
+
 */
