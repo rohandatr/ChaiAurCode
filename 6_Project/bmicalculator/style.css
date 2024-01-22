@@ -1,0 +1,12 @@
+body{
+    background-color:darkgray;
+}
+
+.container{
+    text-align: center;
+    margin-top: 12rem;
+}
+
+button{
+    background-color: yellow;
+}
